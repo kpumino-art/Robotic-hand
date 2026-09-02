@@ -57,4 +57,7 @@ Now the gear is more centered and it wont need extra space.
 
 Hopefully now i can start working on the middle part of the finger.
 
+<img width="685" height="1003" alt="immagine" src="https://github.com/user-attachments/assets/2face335-0036-454d-b64f-53d096f8057e" />
+
+
 
