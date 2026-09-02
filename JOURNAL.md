@@ -26,6 +26,8 @@ Now im going to try and make the gear a bevel gear to transmit more torque.
 
 I tried asking Gemini how to make a bevel gear in Fusion but it wont work, im done for today.
 
+**Total time spent: 2 Hours**
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # 02/09
