@@ -57,6 +57,9 @@ Now the gear is more centered and it wont need extra space.
 
 Hopefully now i can start working on the middle part of the finger.
 
+Ok i was able to make the top of the midlle part of the pinky, now i just have to make it hollow to have the shaft go trough there...
+I would also love if the horizontal gear could be attached to the shaft above it, i just don't know how.
+
 <img width="685" height="1003" alt="immagine" src="https://github.com/user-attachments/assets/2face335-0036-454d-b64f-53d096f8057e" />
 
 
