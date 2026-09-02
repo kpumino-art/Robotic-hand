@@ -71,6 +71,17 @@ I wasnt able to do precisely what i wanted, but this will work for now, i also c
 Also, I was figdeting around with my hand (thats ho i understand the joints) and i realised that the wrist doesnt rotate on the 3 axis! 
 This means that it is way easier to put servos underneath there if it is needed!
 
-Now im going to try finishing the midlle part of the pinky and think about a joint design.
+Now im going to try to make the assembly easier
 
+<img width="585" height="884" alt="immagine" src="https://github.com/user-attachments/assets/8d6caebe-37a7-4bf4-92a7-d61a27696ec4" />
+
+Ok i split the body in two and added threads, so i can lock the 2 shafts in place using 4 screws!
+
+I think im done for today, im going on vacation for a week so hopefully some good ideas come to me.
+
+Today was a long day i must have spent 5 and a half hours at least.
+
+**Total time spent: 5 hours**
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
