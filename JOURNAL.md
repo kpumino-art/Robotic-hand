@@ -50,7 +50,11 @@ That was pretty easy, I know its too long for now but i still don't know how big
 
 I guess i should start with the middle section of the pinky, witch has got to be hollow to accomodate a shaft passing through it...
 
+I didnt make the shaft but i did re-re-do the joint...
+Now the gear is more centered and it wont need extra space.
 
+<img width="732" height="859" alt="Screenshot 2026-09-02 102714" src="https://github.com/user-attachments/assets/6ed6dbac-0102-4600-adb6-12c62bbeabc9" />
 
+Hopefully now i can start working on the middle part of the finger.
 
 
