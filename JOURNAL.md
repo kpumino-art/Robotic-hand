@@ -62,5 +62,13 @@ I would also love if the horizontal gear could be attached to the shaft above it
 
 <img width="685" height="1003" alt="immagine" src="https://github.com/user-attachments/assets/2face335-0036-454d-b64f-53d096f8057e" />
 
+I wasnt able to do precisely what i wanted, but this will work for now, i also color coded all of the bodies so it is easier to visualize.
+
+<img width="1891" height="1068" alt="immagine" src="https://github.com/user-attachments/assets/d69be725-df87-4542-a443-d79203ded3ff" />
+
+Also, I was figdeting around with my hand (thats ho i understand the joints) and i realised that the wrist doesnt rotate on the 3 axis! 
+This means that it is way easier to put servos underneath there if it is needed!
+
+Now im going to try finishing the midlle part of the pinky and think about a joint design.
 
 
