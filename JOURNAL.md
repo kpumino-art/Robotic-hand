@@ -44,6 +44,13 @@ After watching a tutorial i was able to finally understand how to make a bevel g
 
 I guess i should make the shaft...
 
+<img width="548" height="687" alt="Screenshot 2026-09-02 092341" src="https://github.com/user-attachments/assets/9cb65401-2c15-433d-b317-591ec9616ffe" />
+
+That was pretty easy, I know its too long for now but i still don't know how big i want the joint to be.
+
+I guess i should start with the middle section of the pinky, witch has got to be hollow to accomodate a shaft passing through it...
+
+
 
 
 
